@@ -31,7 +31,7 @@ bool check(int y, int x, char* word,int k, int len) {
 }
 int main() {
 	scanf("%d", &C);
-	while(C--) {;
+	while(C--) {
 		for(int i=0;i<5;i++){
 			scanf("%s", board[i]);
 		}
